@@ -1,3 +1,0 @@
-Test Test Test
-2nd line from local
-2nd line edited from remote
